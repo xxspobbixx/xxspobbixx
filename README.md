@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm xxspobbixx</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">I am a developer from Germany</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxspobbixx" alt="xxspobbixx" /></a> </p>
 
 - 🔭 I’m currently working on [Iridium-Gaming Launcher](Soon)
 
-- 🌱 I’m currently learning **PHP, CSS ,JS ,C# ,C++**
+- 🌱 I’m currently learning **PHP, CSS ,JS ,C# ,C++, MySQL uvm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xxspobbixx](https://github.com/xxspobbixx)
 
